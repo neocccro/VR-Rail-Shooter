@@ -42,4 +42,5 @@ alles met een * staat hier onder uitgebreid.
 
 ## Sources
 
-- [I used this to learn about interfaces](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+- [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+- [meerdere wapens](https://answers.unity.com/questions/775576/c-equip-weapon-from-inventory.html)
