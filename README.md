@@ -4,31 +4,32 @@
 In dit project heb ik een VR Rail Shooter gemaakt
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
 - [Locatie vinden op een circel](https://github.com/neocccro/spaceevader/blob/master/Assets/Scripts/Arc.cs)
 *hiermee kan ik de locatie vinden waar ik een object moet plaatsen*
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+
+| | Web build | VR support | C# |
+| --- | --- | --- | --- |
+| Unity | X | X | X |
+| Unreal 4 | X | X |  |
+| Monogame | X |  | X |
+| CryEngine |  | X |  |
+
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+
+- VR project maken
+- nieuwe movement mechanics leren kennen
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 ||VR Implementatie|||
 |week 2 |
 
-## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+## Sources
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [I used this to learn about interfaces](https://en.wikipedia.org/wiki/Composition_over_inheritance)
